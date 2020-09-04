@@ -20,16 +20,15 @@ See a checkout button that when clicked shows the total amount charged for the o
 * Delivery mode	eg No delivery
 {}
 ## Technologies Used
-{HTML
-CSS
-Bootstrap
-Javascript
-Jquery}
+* HTML
+* CSS
+* Bootstrap
+* Javascript
+* Jquery}
 
 ## Support and contact details
 {if by any chance one  run into any issues or have questions, ideas or concerns.
 kindly reach out @smallwanjiku@gmail.com and also contact me @ 0740840333.}
 ### License
-*{Determine the license under which this application can be used. See below for more details
-on licensing.}*
+*{MIT.}*
 Copyright (c) {2020} **{Dorcas Wanjiku}**
