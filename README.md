@@ -30,5 +30,5 @@ See a checkout button that when clicked shows the total amount charged for the o
 {if by any chance one  run into any issues or have questions, ideas or concerns.
 kindly reach out @smallwanjiku@gmail.com and also contact me @ 0740840333.}
 ### License
-*{MIT.}*
+*{MIT LICENSE.}*
 Copyright (c) {2020} **{Dorcas Wanjiku}**
