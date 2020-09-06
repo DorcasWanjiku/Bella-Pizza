@@ -79,7 +79,7 @@ figcaption {
 }
 
 .contacts {
-    background-image: url("/images/mami.jpg");
+    background-image: url("/images/contact.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -194,7 +194,7 @@ h4 {
 
 
 .landing {
-    background-image: url("/images/suki.jpg");
+    background-image: url("/images/shee.jpg");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
